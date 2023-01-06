@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = matrimony
+build_property.RootNamespace = matrimony
+build_property.ProjectDir = D:\HiPatu\SecondApp\matrimony\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\HiPatu\SecondApp\matrimony
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/HiPatu/SecondApp/matrimony/matrimoni/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bWF0cmltb25pXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HiPatu/SecondApp/matrimony/matrimoni/Views/Home/newpage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bWF0cmltb25pXFZpZXdzXEhvbWVcbmV3cGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HiPatu/SecondApp/matrimony/matrimoni/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bWF0cmltb25pXFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HiPatu/SecondApp/matrimony/matrimoni/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bWF0cmltb25pXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HiPatu/SecondApp/matrimony/matrimoni/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bWF0cmltb25pXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HiPatu/SecondApp/matrimony/matrimoni/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bWF0cmltb25pXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HiPatu/SecondApp/matrimony/matrimoni/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bWF0cmltb25pXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HiPatu/SecondApp/matrimony/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HiPatu/SecondApp/matrimony/Views/Home/newpage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxuZXdwYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HiPatu/SecondApp/matrimony/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HiPatu/SecondApp/matrimony/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HiPatu/SecondApp/matrimony/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HiPatu/SecondApp/matrimony/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HiPatu/SecondApp/matrimony/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/HiPatu/SecondApp/matrimony/matrimoni/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = bWF0cmltb25pXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-gk58841o5v
+
+[D:/HiPatu/SecondApp/matrimony/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ivcb0ldu59
